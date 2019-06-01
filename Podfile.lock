@@ -1,0 +1,29 @@
+PODS:
+  - AnchorKit (0.0.3)
+  - TesseractOCRiOS (5.0.1)
+
+DEPENDENCIES:
+  - AnchorKit (from `https://github.com/DavidKmn/AnchorKit.git`, tag `0.0.6`)
+  - TesseractOCRiOS
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - TesseractOCRiOS
+
+EXTERNAL SOURCES:
+  AnchorKit:
+    :git: https://github.com/DavidKmn/AnchorKit.git
+    :tag: 0.0.6
+
+CHECKOUT OPTIONS:
+  AnchorKit:
+    :git: https://github.com/DavidKmn/AnchorKit.git
+    :tag: 0.0.6
+
+SPEC CHECKSUMS:
+  AnchorKit: 6baa1a0936ffe77d5b03782a8bde9d37ad77d204
+  TesseractOCRiOS: 2c189465f86abb030d0c5141c90da9705b647854
+
+PODFILE CHECKSUM: fd17d23addc6f89536c2457093eccab53b7788d4
+
+COCOAPODS: 1.6.2
